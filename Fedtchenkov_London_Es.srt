@@ -1,0 +1,264 @@
+1
+00:00:00,220 --> 00:00:04,970
+A continuación vamos a conectar a los consumidores
+con los fabricantes en alimentación así que hablemos sobre
+
+2
+00:00:04,970 --> 00:00:07,420
+el Ecosistema INS con Peter.
+
+3
+00:00:07,439 --> 00:00:12,950
+Voy a hablaros sobre una industria muy tradicional
+con la que todo el mundo en esta sala tiene experiencia
+
+4
+00:00:12,950 --> 00:00:14,310
+como consumidor.
+
+5
+00:00:14,310 --> 00:00:21,160
+La industria de la alimentación. Es uno de los mayores mercados
+de consumo en el mundo con más de 8,5 billones
+
+6
+00:00:21,160 --> 00:00:29,009
+de dólares de volumen esperados para 2020 y hoy día
+cuando acudes a un supermercado estás
+
+7
+00:00:29,009 --> 00:00:35,320
+justo al final de una cadena de suministro muy larga
+y esta cadena de suministro es muy cara de operar
+
+8
+00:00:35,320 --> 00:00:40,060
+y limita la elección de los consumidores. Cuando
+acudes al supermercado y piensas que compras
+
+9
+00:00:40,060 --> 00:00:46,840
+lo que quieres, en realidad compras lo que el minorista
+saca el mayor beneficio con ello y en el s.XXI
+
+10
+00:00:46,840 --> 00:00:51,440
+creemos que los consumidores tienen que decidir
+qué marcas quieren, qué productos
+
+11
+00:00:51,440 --> 00:00:56,670
+necesitan y si los quieren comprar de manufactureros
+locales o nacionales. Es por eso que
+
+12
+00:00:56,670 --> 00:01:05,010
+hemos creado el Ecosistema INS - un marketplace descentralizado
+que conecta directamente fabricantes de la alimentación
+
+13
+00:01:05,010 --> 00:01:06,010
+y consumidores.
+
+14
+00:01:06,010 --> 00:01:11,570
+Hemos trabajado durante los últimos 4 años en el mercado de
+la alimentación y hemos interactuado con un montón de
+
+15
+00:01:11,570 --> 00:01:16,650
+fabricantes y nos hemos dado cuenta de que precisamente
+quieren vender directamente a los consumidores. Quieren
+
+16
+00:01:16,650 --> 00:01:22,190
+llegar directamente al mercado de los consumidores y los
+logos que ves en la diapositiva son los tipos con los que
+
+17
+00:01:22,190 --> 00:01:27,070
+hemos firmado un memorando de entendimiento
+y que reconocerás como algunos de los mayores
+
+18
+00:01:27,070 --> 00:01:30,600
+nombres en la industria de la manufactura de alimentos.
+
+19
+00:01:30,600 --> 00:01:36,430
+Así que el problema en el mercado minorista de la alimentación
+es que la cadena de suministro es muy larga, desactualizada,
+
+20
+00:01:36,430 --> 00:01:43,490
+es cara y no ha cambiado desde finales del x.XIX -
+principios del s.XX y los minoristas
+
+21
+00:01:43,490 --> 00:01:48,890
+están frecuentemente en el cuello de la botella de esta cadena
+de suministro y en la viñeta puedes ver el ejemplo
+
+22
+00:01:48,890 --> 00:01:56,420
+del Reino Unido con 4 minoristas controlando
+cerca del 76% del mercado. Así que no mentimos
+
+23
+00:01:56,420 --> 00:02:03,860
+cuando decimos que es por eso que hemos creado INS, un sistema que
+conecta a los manufactureros de alimentación y consumidores así como
+
+24
+00:02:03,860 --> 00:02:10,149
+terceros proveedores de envíos que realizan los
+repartos. Pero más importante conectamos fabricantes
+
+25
+00:02:10,149 --> 00:02:13,460
+y consumidores en términos de marketing directo.
+
+26
+00:02:13,460 --> 00:02:19,950
+Hoy en día el 70% del presupuesto de los fabricantes va a
+los canales de comercio. Esto significa que los mayoristas
+27
+00:02:19,950 --> 00:02:26,650
+y minoristas son los máximos beneficiarios de ello,
+no los consumidores. Lo que permite INS
+
+28
+00:02:26,650 --> 00:02:33,349
+es que los manufactureros realicen programas de fidelización
+ellos mismos, basados en contratos inteligentes.
+
+29
+00:02:33,349 --> 00:02:40,661
+Así, por ejemplo, si eres Coca-Cola puedes fijar
+ciertas normas en base a que si los consumidores
+
+30
+00:02:40,661 --> 00:02:46,470
+compran tus productos puedes desbloquear tokens
+para recompensarlas y puedes por ejemplo
+
+31
+00:02:46,470 --> 00:02:52,739
+decir que esos tokens no pueden ser usados para comprar
+productos de PepsiCo o productos de cualquier otro competidor
+
+32
+00:02:52,739 --> 00:03:00,200
+y el token de INS es el único medio de promoción
+y programas de recompensas en nuestra plataforma y
+
+33
+00:03:00,200 --> 00:03:07,120
+es también uno de los medios de pago. Los fabricantes
+comprarán tokens INS para recompensar a sus
+
+34
+00:03:07,120 --> 00:03:12,140
+clientes fidelidades y conectar con los consumidores
+directamente.
+
+35
+00:03:12,140 --> 00:03:17,220
+Y en esencia estamos acortando la cadena de suministro
+que estamos creando haciéndola más eficiente y
+
+36
+00:03:17,220 --> 00:03:25,020
+permitiendo a los fabricantes comercializar los
+bienes directamente a los consumidores.
+
+37
+00:03:25,020 --> 00:03:31,640
+Así que conocemos la industria de la alimentación muy de cerca.
+Hemos estado allí durante los últimos 4 años. El equipo
+
+38
+00:03:31,640 --> 00:03:38,239
+detrás de INS ha creado Instamart, el mayor servicio de
+envíos apoyado por capital riesgo
+
+39
+00:03:38,239 --> 00:03:45,200
+en Rusia, por el Grupo mail.ru y el ex-vice
+Presidente de Walmart y vice Consejero de
+
+40
+00:03:45,200 --> 00:03:46,200
+jet.com.
+
+41
+00:03:46,200 --> 00:03:50,849
+Hemos realizado más de 100.000 envíos.
+Podemos enviar alimentos frescos a la puerta
+
+42
+00:03:50,849 --> 00:03:57,400
+de tu casa en unas pocas horas y tenemos más de
+200 personas trabajando a tiempo completo en nuestro equipo.
+
+43
+00:03:57,400 --> 00:04:05,150
+Así, con INS ya hemos completado un número importante
+de hitos. Tenemos al equipo preparado con
+
+44
+00:04:05,150 --> 00:04:12,140
+35 personas trabajando a tiempo completo. Tenemos memorandos de
+entendimiento firmado con Unilever, con Reckitt Benckiser,
+
+45
+00:04:12,140 --> 00:04:17,699
+con Valio, con Mars y con algunos de los mayores
+fabricantes de alimentación del mundo.
+
+46
+00:04:17,699 --> 00:04:24,810
+Estamos a toda potencia con nuestra ICO y vamos a
+desarrollar la plataforma en la primera mitad
+
+47
+00:04:24,810 --> 00:04:31,350
+de 2018, previendo lanzarla al público en la
+segunda mitad de 2018 con un piloto en Moscú,
+
+48
+00:04:31,350 --> 00:04:36,880
+Rusia, y después con el despliegue por las mayores
+áreas metropolitanas en el Norte de Europa,
+
+49
+00:04:36,880 --> 00:04:39,470
+América y el Sudeste Asiático.
+
+50
+00:04:39,470 --> 00:04:45,270
+Así, nuestra venta de tokens será anunciada hoy, más tarde.
+Nuestra preventa comenzará el 16 de octubre
+
+51
+00:04:45,270 --> 00:04:49,050
+y nuestra ICO el 20 de noviembre.
+
+52
+00:04:49,050 --> 00:04:55,630
+Por favor, uníos a nuestro telegram, twitter y facebook
+y tendremos un ICO booth en la oficina oval
+
+53
+00:04:55,630 --> 00:05:00,910
+y todavía nos quedan algunos tokens de chocolate, así que
+por favor, venid a saludar y estaremos encantados de contestar
+
+54
+00:05:00,910 --> 00:05:02,560
+cualquier duda que podáis tener.
+
+55
+00:05:02,560 --> 00:05:03,060
+Muchas gracias.
+
