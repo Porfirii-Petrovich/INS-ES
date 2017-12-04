@@ -1,0 +1,536 @@
+1
+00:00:04,529 --> 00:00:09,160
+Hola y gracias por tu interés en
+
+2
+00:00:06,939 --> 00:00:10,900
+la ICO del ecosistema INS en este
+
+3
+00:00:09,160 --> 00:00:13,150
+tutorial te mostraré paso a
+
+4
+00:00:10,900 --> 00:00:16,000
+paso cómo registrarte en la web de la venta
+
+5
+00:00:13,150 --> 00:00:19,480
+de tokens hacer un depósito convertir el depósito
+
+6
+00:00:16,000 --> 00:00:21,250
+en INS y pasar el procedimiento de KYC para
+
+7
+00:00:19,480 --> 00:00:23,410
+participar en la venta de tokens tienes que
+
+8
+00:00:21,250 --> 00:00:27,400
+registrarte en la web de la venta oficial de
+
+9
+00:00:23,410 --> 00:00:29,410
+tokens primero haz click en el botón de registrarte
+
+10
+00:00:27,400 --> 00:00:31,390
+y se te pedirá que introduzcas tu
+
+11
+00:00:29,410 --> 00:00:35,199
+email y crees una contraseña para tu cuenta
+
+12
+00:00:31,390 --> 00:00:44,589
+en este ejemplo voy a crear
+
+13
+00:00:35,199 --> 00:00:46,449
+una nueva cuenta por tu seguridad la contraseña
+
+14
+00:00:44,589 --> 00:00:48,609
+debe tener al menos 8 caracteres e
+
+15
+00:00:46,449 --> 00:00:52,239
+incluir al menos un caracter en mayúsculas
+
+16
+00:00:48,609 --> 00:00:54,519
+y un número haz tick en esta casilla y
+
+17
+00:00:52,239 --> 00:00:58,569
+tienes que esperar a recibir un email de confirmación
+
+18
+00:00:54,519 --> 00:01:02,799
+y podrás ingresar en tu
+
+19
+00:00:58,569 --> 00:01:06,130
+cuenta instantáneamente ahora puedes realizar un
+
+20
+00:01:02,799 --> 00:01:08,469
+depósito aquí en el panel derecho haz click
+
+21
+00:01:06,130 --> 00:01:11,079
+en el botón de depósito y se te mostrará
+
+22
+00:01:08,469 --> 00:01:14,649
+todos los métodos de pago que aceptamos
+
+23
+00:01:11,079 --> 00:01:17,530
+bitcoin ethereum litecoin - y dólares
+
+24
+00:01:14,649 --> 00:01:22,689
+americanos mediante transferencia en este ejemplo
+
+25
+00:01:17,530 --> 00:01:25,479
+no obstante voy a usar ethereum aquí
+
+26
+00:01:22,689 --> 00:01:27,820
+puedes ver tu código QR personal y
+
+27
+00:01:25,479 --> 00:01:30,640
+tu dirección ethereum a la que tienes que
+
+28
+00:01:27,820 --> 00:01:34,210
+enviar los fondos voy a copiarla
+
+29
+00:01:30,640 --> 00:01:37,890
+cuidadosamente asegúrate de que la copias
+
+30
+00:01:34,210 --> 00:01:40,840
+exactamente como se muestra en la web
+
+31
+00:01:37,890 --> 00:01:45,340
+en este ejemplo voy a usar mi
+
+32
+00:01:40,840 --> 00:01:50,409
+cartera de ether para realizar el depósito así que para
+
+33
+00:01:45,340 --> 00:01:52,719
+hacer la transacción ven aquí haz corta pega
+
+34
+00:01:50,409 --> 00:01:54,939
+de la dirección cuidadosamente y en el campo 
+
+35
+00:01:52,719 --> 00:01:57,549
+de abajo especifica la cantidad que te gustaría
+
+36
+00:01:54,939 --> 00:02:00,909
+contribuir a la ICO en este ejemplo
+
+37
+00:01:57,549 --> 00:02:03,609
+voy a contribuir 0.2 ethereum
+
+38
+00:02:00,909 --> 00:02:06,640
+no obstante por favor ten en cuenta que la contribución
+
+39
+00:02:03,609 --> 00:02:09,700
+mínima es 0.1 ethereum el límite de gas
+
+40
+00:02:06,640 --> 00:02:14,230
+se puede dejar como predeterminado en la configuración
+
+41
+00:02:09,700 --> 00:02:16,420
+o aumentarlo un poco - como 50k
+
+42
+00:02:14,230 --> 00:02:21,220
+para acelerar la transacción
+
+43
+00:02:16,420 --> 00:02:24,819
+haz click en generar transacción asegúrate de que
+
+44
+00:02:21,220 --> 00:02:29,700
+todo es correcto después hay click en
+
+45
+00:02:24,819 --> 00:02:29,700
+confirmar transacción cuando estés seguro
+
+46
+00:02:30,060 --> 00:02:37,030
+tu transacción tardará entre unos pocos minutos y
+
+47
+00:02:32,800 --> 00:02:39,280
+unas pocas horas en completarse una vez que
+
+48
+00:02:37,030 --> 00:02:43,420
+la transacción se haya completado la verás
+
+49
+00:02:39,280 --> 00:02:46,750
+aquí en la pestaña de pagos verás que entro
+
+50
+00:02:43,420 --> 00:02:50,340
+en una cuenta de prueba y aquí ya se han
+
+51
+00:02:46,750 --> 00:02:53,980
+hecho depósitos en BTC USD y ethereum 
+
+52
+00:02:50,340 --> 00:02:57,750
+a continuación tenemos que convertir estos depósitos en
+
+53
+00:02:53,980 --> 00:03:02,230
+tokens INS para hacerlo vete al dashboard
+
+54
+00:02:57,750 --> 00:03:04,000
+baja hasta el paso 3 elige la
+
+55
+00:03:02,230 --> 00:03:05,769
+divisa que te gustaría convertir y la
+
+56
+00:03:04,000 --> 00:03:09,400
+cantidad de tokens que te gustaría
+
+57
+00:03:05,769 --> 00:03:13,000
+comprar en mi ejemplo no obstante yo
+
+58
+00:03:09,400 --> 00:03:15,700
+he depositado 0,2 ethereum y se supone que puedo
+
+59
+00:03:13,000 --> 00:03:19,390
+comprar 60 INS tokens con ello pero también
+
+60
+00:03:15,700 --> 00:03:23,079
+opto a otros 12 INS tokens como
+
+61
+00:03:19,390 --> 00:03:25,120
+bonus en caso de que haya depositado dos o más
+
+62
+00:03:23,079 --> 00:03:27,160
+divisas por ejemplo Bitcoin y
+
+63
+00:03:25,120 --> 00:03:29,890
+ethereum podemos hacer tick en esta casilla para gastar
+
+64
+00:03:27,160 --> 00:03:33,310
+todos los fondos de la cuenta para comprar tokens
+
+65
+00:03:29,890 --> 00:03:36,459
+a la vez si tienes un código promocional antes de
+
+66
+00:03:33,310 --> 00:03:40,180
+convertir los depósitos en tokens INS
+
+67
+00:03:36,459 --> 00:03:40,980
+deberías escribirlo aquí voy a
+
+68
+00:03:40,180 --> 00:03:45,250
+hacerlo
+
+69
+00:03:40,980 --> 00:03:47,019
+como puedes ver habrá una
+
+70
+00:03:45,250 --> 00:03:50,760
+confirmación en la esquina superior derecha
+
+71
+00:03:47,019 --> 00:03:53,410
+de que el código promocional se aplicó correctamente
+
+72
+00:03:50,760 --> 00:03:56,140
+a continuación hay tres cajas que debes rellenar
+
+73
+00:03:53,410 --> 00:03:58,209
+antes de que puedas comprar los tokens la primera
+
+74
+00:03:56,140 --> 00:04:01,720
+confirma que no eres ciudadano de los
+
+75
+00:03:58,209 --> 00:04:03,670
+EEUU la segunda confirma que
+
+76
+00:04:01,720 --> 00:04:06,549
+has leído el acuerdo de venta de tokens
+
+77
+00:04:03,670 --> 00:04:08,380
+y la tercera confirma que consientes
+
+78
+00:04:06,549 --> 00:04:11,190
+y entiendes que tu transacción
+
+79
+00:04:08,380 --> 00:04:16,019
+será llevada a cabo por agentes independientes
+
+80
+00:04:11,190 --> 00:04:19,370
+eso es todo ahora puedes hacer click en get tokens
+
+81
+00:04:16,019 --> 00:04:22,200
+click en aceptar
+
+82
+00:04:19,370 --> 00:04:25,530
+los tokens comprados se mostrarán
+
+83
+00:04:22,200 --> 00:04:27,930
+automáticamente aquí en el panel derecho como
+
+84
+00:04:25,530 --> 00:04:31,070
+puedes ver yo ya tengo algunos tokens
+
+85
+00:04:27,930 --> 00:04:34,140
+abajo también puedes ver los tokens de referencia
+
+86
+00:04:31,070 --> 00:04:35,910
+por último pero no menos importante antes de retirar
+
+87
+00:04:34,140 --> 00:04:38,580
+tus tokens INS tienes que
+
+88
+00:04:35,910 --> 00:04:43,170
+completar el proceso de conoce a tu cliente
+
+89
+00:04:38,580 --> 00:04:49,230
+conocido como KYC vete a tu perfil verás un
+
+90
+00:04:43,170 --> 00:04:52,350
+botón KYC haz click en él es
+
+91
+00:04:49,230 --> 00:04:56,460
+bastante sencillo solo hay 10 campos
+
+92
+00:04:52,350 --> 00:04:59,760
+que rellenar tu nombre completo esto es bastante
+
+93
+00:04:56,460 --> 00:05:02,070
+intuitivo voy a introducir
+
+94
+00:04:59,760 --> 00:05:05,250
+John Smith luego teclea la misma
+
+95
+00:05:02,070 --> 00:05:11,610
+dirección que la que registraste en
+
+96
+00:05:05,250 --> 00:05:15,150
+la página de venta de tokens tu número de teléfono el número
+
+97
+00:05:11,610 --> 00:05:20,450
+number lo tomarás del
+
+98
+00:05:15,150 --> 00:05:20,450
+documento que elegiste enviar aquí
+
+99
+00:05:20,600 --> 00:05:28,560
+debería ser un escaneo de ID un escaneo de pasaporte
+
+100
+00:05:24,630 --> 00:05:31,220
+o un escaneo de carnet de conducir o una fotografía si
+
+101
+00:05:28,560 --> 00:05:34,200
+si es una buena fotografía también la puedes usar
+
+102
+00:05:31,220 --> 00:05:36,840
+luego especifica la ciudadanía vamos a ir
+
+103
+00:05:34,200 --> 00:05:39,480
+con Rusia la ciudad de residencia
+
+104
+00:05:36,840 --> 00:05:43,200
+no debería ser necesariamente del
+
+105
+00:05:39,480 --> 00:05:45,150
+mismo país a continuación en el punto ocho
+
+106
+00:05:43,200 --> 00:05:48,390
+confirmas que no estás mandando el
+
+107
+00:05:45,150 --> 00:05:51,780
+pago desde EEUU Puerto Rico o las
+
+108
+00:05:48,390 --> 00:05:56,130
+Islas Vírgenes haz click en sí si quieres
+
+109
+00:05:51,780 --> 00:05:58,290
+pasar el KYC eso es confirma que el
+
+110
+00:05:56,130 --> 00:06:00,210
+pago por tokens INS no deriva
+
+111
+00:05:58,290 --> 00:06:05,250
+de o está relacionado con actividades
+
+112
+00:06:00,210 --> 00:06:07,320
+ilegales y confirma tanto si estás
+
+113
+00:06:05,250 --> 00:06:10,080
+realizando el pago por tokens INS por tu
+
+114
+00:06:07,320 --> 00:06:15,060
+cuenta o actuando en nombre de otra
+
+115
+00:06:10,080 --> 00:06:17,280
+persona individual eso es ahora puedes
+
+116
+00:06:15,060 --> 00:06:21,840
+volver a la página web del Ecosistema INS
+
+117
+00:06:17,280 --> 00:06:24,870
+y esperar que el procedimiento de KYC
+
+118
+00:06:21,840 --> 00:06:27,180
+se complete como he dicho esto puede durar
+
+119
+00:06:24,870 --> 00:06:29,190
+cinco días y se te mostrará si
+
+120
+00:06:27,180 --> 00:06:30,930
+lo has pasado o ha fallado aquí a la
+
+121
+00:06:29,190 --> 00:06:33,729
+derecha en la parte de abajo
+
+122
+00:06:30,930 --> 00:06:36,060
+los tokens se harán transferibles
+
+123
+00:06:33,729 --> 00:06:38,440
+siete días después del final de la ICO para
+
+124
+00:06:36,060 --> 00:06:40,360
+retirar tus tokens de tu
+
+125
+00:06:38,440 --> 00:06:42,699
+cartera ethereum personal tienes que
+
+126
+00:06:40,360 --> 00:06:46,389
+especificar la dirección aquí y asegurarte que
+
+127
+00:06:42,699 --> 00:06:49,560
+soporta ERC-20 myethereumwallet
+
+128
+00:06:46,389 --> 00:06:52,090
+y otras carteras similares deberían funcionar sin problema
+
+129
+00:06:49,560 --> 00:06:53,680
+si tienes cualquier pregunta a la izquierda en la
+
+130
+00:06:52,090 --> 00:06:55,960
+descripción debajo del vídeo tienes un
+
+131
+00:06:53,680 --> 00:06:58,030
+enlace a nuestro canal oficial de Telegram
+
+132
+00:06:55,960 --> 00:07:00,099
+donde miembros de soporte estarán encantados de
+
+133
+00:06:58,030 --> 00:07:02,430
+ayudarte gracia por ver
+
+134
+00:07:00,099 --> 00:07:02,430
+este vídeo
+
